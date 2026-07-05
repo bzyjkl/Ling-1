@@ -5,8 +5,8 @@
 
 // ---------- 配置区（每次更新修改这里） ----------
 const PLUGIN_VERSION = "1.4.2"
-const GITHUB_USERNAME = "你的用户名"  // 👈 改成你的GitHub用户名
-const REPO_NAME = "你的仓库名"        // 👈 改成你的仓库名
+const GITHUB_USERNAME = "bzyjkl"  // 👈 改成你的GitHub用户名
+const REPO_NAME = "Ling-1"        // 👈 改成你的仓库名
 // ------------------------------------------------
 
 const UPDATE_CHECK_URL = `https://cdn.jsdelivr.net/gh/${GITHUB_USERNAME}/${REPO_NAME}@main/copy_manga.js`
